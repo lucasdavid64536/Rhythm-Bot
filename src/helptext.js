@@ -1,6 +1,6 @@
 
 module.exports = [
-    '```Help Text Menu :question:',
+    '```Help Text Menu ❓',
     '{0}ping: "Check if the bot is online"',
     '{0}join: "Join your voice channel"',
     '{0}leave: "Leave current voice channel"',
