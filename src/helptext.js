@@ -1,6 +1,6 @@
 
 module.exports = [
-    'Help Text Menu :question:',
+    '```Help Text Menu :question:',
     '{0}ping: "Check if the bot is online"',
     '{0}join: "Join your voice channel"',
     '{0}leave: "Leave current voice channel"',
@@ -21,5 +21,5 @@ module.exports = [
     '{0}clear: "Clear songs in the queue"',
     '{0}volume [0-100 or nothing]: "Set volume to a number between 0-100" Ex: {0}volume 43',
     '{0}repeat: "Toggle playlist repeat mode"',
-    '{0}playlist [save/load/delete/list][playlist name]: Ex: {0}playlist save:Calamity   Ex: {0}playlist load:Calamity'
+    '{0}playlist [save/load/delete/list][playlist name]: Ex: {0}playlist save:Calamity   Ex: {0}playlist load:Calamity```'
 ].join('\n');
